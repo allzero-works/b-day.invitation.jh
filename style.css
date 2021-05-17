@@ -19,10 +19,10 @@ canvas {
   display: block;
 }
 
+/* 영상과 사진은 불러오자마자 안 보이게 속성 설정해둠 */
 video { 
   display: none;
 }
-
 img{
   display: none;
 }
