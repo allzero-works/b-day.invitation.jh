@@ -1,0 +1,28 @@
+.cnv-holder {
+  width: auto;
+  display: block;
+}
+.letter-holder{
+  width: auto;
+}
+
+.letter-holder > img{
+  width: 100%;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+canvas {
+  display: block;
+}
+
+video { 
+  display: none;
+}
+
+img{
+  display: none;
+}
